@@ -1,2 +1,2 @@
-# Curso-Pyrhon
+# Curso-Python
 Curso Python
